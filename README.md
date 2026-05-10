@@ -5,9 +5,9 @@
 
 ### The Situation
 
-A developer pushed an unreviewed hotfix at 2 AM on December 12th. The Spider monorepo is now considered **compromised**. Suspicious scripts, leaked credentials, and unknown processes have been reported.
+A developer pushed an unreviewed code at 2 AM on December 12th. The Spider monorepo is now considered **compromised**. Suspicious scripts, leaked credentials, and unknown processes have been reported.
 
-You've been brought in as the auditor. Your job is to **investigate the environment, identify every threat, and write a bash script that automates the entire audit**.
+You've been brought in from the Devops Team. Your job is to **investigate the environment, identify every threat, and write a bash script that automates the entire audit**.
 
 ---
 
@@ -22,14 +22,13 @@ You've been brought in as the auditor. Your job is to **investigate the environm
 ### Getting Started
 
 ```bash
-# 1. Clone this repo
+# Clone this repo
 git clone https://github.com/spider-rd/devops-induction-25
 cd devops-induction-25
 
-# 2. Build and start your environment (takes ~2 min first time)
+# Build and start your env
 bash setup.sh
 
-# 3. SSH into the compromised machine
 ssh spider@localhost -p 2222
 # Password: webslinger2026
 ```
@@ -88,4 +87,4 @@ If something looks like a shell script, verify that it actually is one.
 
 ---
 
-*Good luck. The previous developer left in a hurry. 🕷️*
+*Good luck... 🕷️*
