@@ -1,0 +1,16 @@
+╔══════════════════════════════════════════════════════╗
+  ║         SPIDER R&D — INTERNAL INFRASTRUCTURE        ║
+  ║              *** RESTRICTED ACCESS ***               ║
+  ╠══════════════════════════════════════════════════════╣
+  ║                                                      ║
+  ║  WARNING: This system may have been compromised.     ║
+  ║  A developer pushed an unreviewed hotfix on Dec 12.  ║
+  ║  Security audit is in progress.                      ║
+  ║                                                      ║
+  ║  You are logged in as: spider (auditor)              ║
+  ║  App root: /var/www/spider-app                       ║
+  ║                                                      ║
+  ║  Your job: write vault_sweep.sh and find everything  ║
+  ║  that shouldn't be here. Good luck.     🕷️           ║
+  ║                                                      ║
+  ╚══════════════════════════════════════════════════════╝
