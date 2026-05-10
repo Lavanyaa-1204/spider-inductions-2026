@@ -23,8 +23,8 @@ You've been brought in from the Devops Team. Your job is to **investigate the en
 
 ```bash
 # Clone this repo
-git clone https://github.com/spider-rd/devops-induction-25
-cd devops-induction-25
+git clone https://github.com/Lavanyaa-1204/spider-inductions-2026
+cd spider-inductions-2026
 
 # Build and start your env
 bash setup.sh
