@@ -7,7 +7,7 @@
 
 A developer pushed an unreviewed code at 2 AM on December 12th. The Spider monorepo is now considered **compromised**. Suspicious scripts, leaked credentials, and unknown processes have been reported.
 
-You've been brought in from the Devops Team. Your job is to **investigate the environment, identify every threat, and write a bash script that automates the entire audit**.
+You've been brought in from the Devops Team. Your job is to **investigate the environment, identify every threat, and write a bash script that automates everything**.
 
 ---
 
