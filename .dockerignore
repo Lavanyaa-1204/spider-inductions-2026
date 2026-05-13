@@ -1,0 +1,5 @@
+.git
+*.md
+my-submission/
+.DS_Store
+Thumbs.db
